@@ -113,6 +113,18 @@ Mọi ý kiến đóng góp, báo lỗi hoặc đề xuất tính năng mới đ
 
 Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
 
+## 🤖 Trợ lý AI
+
+💡 *Phát triển với sự hỗ trợ của DeepSeek AI Assistant*
+
+<div align="center">
+
+[![DeepSeek](https://img.shields.io/badge/Developed_with-DeepSeek_R1-2E8B57?style=for-the-badge&logo=openai&logoColor=white)](https://www.deepseek.com)
+[![AI-Assisted](https://img.shields.io/badge/AI-Assisted_Development-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)]()
+[![SFML](https://img.shields.io/badge/Graphics-SFML-8CC84B?style=for-the-badge&logo=sfml&logoColor=white)](https://www.sfml-dev.org)
+
+</div>
+
 ---
 
 **Chúc Mừng Năm Mới An Khang - Thịnh Vượng!** 🎉
